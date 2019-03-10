@@ -2,9 +2,9 @@
 	/* Colors */
 	--primary:  #7F555C;
 	--highlight: red;
-	--white: #D0E0EE ;/* rgba(255, 255, 255, 1);*/
-	--off-white:rgb(232, 245, 255);
-	--grey-1:#FCFEFC;/* rgba(245, 243, 242, 1);*/
+	--white: #DCE8F2;/* rgba(255, 255, 255, 1);*/
+	--off-white:#FFF;
+	--grey-1:#E9F0F7;/* rgba(245, 243, 242, 1);*/
 	--grey-2: #FFFEFE;/*rgba(235, 231, 230, 1);*/
 	--grey-3: #00184C;/* rgba(89, 87, 86, 1);*/
 	--grey-4: green; /*rgba(66, 64, 64, 1);*/
