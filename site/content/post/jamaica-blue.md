@@ -1,5 +1,5 @@
 ---
-title: Blogginlägg två
+title: Blogginlägg 2
 date: 2017-01-04T15:04:10.000Z
 description: >
   Detta är ett blogginlägg...….Lorem ipsum dolor sit amet, consectetur
