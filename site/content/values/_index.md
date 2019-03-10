@@ -1,10 +1,10 @@
 ---
 title: Om Pärlor
-image: /img/still-life-715117_640.jpg
+image: /img/waves-1867285_1920.jpg
 values:
-  - heading: ''
-    imageUrl: /img/about-shade-grown.jpg
-    text: >
+  - heading: Ursprung
+    imageUrl: /img/still-life-715117_640.jpg
+    text: >+
       Pärlor är högt värderade juveler. Kina var en av de första länderna i
       världen där man uppskattade att bära sötvattenspärlor.  I en känd
       historisk bok som heter ”Shang Shu Yu Gong” beskrevs redan för 4000 år
@@ -12,33 +12,50 @@ values:
       Sötvattenspärlor är organiska juveler som i kinesisk kultur symboliserar
       livets födelse och som i tusentals år getts en särskilt vördad plats bland
       alla juveler. 
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
+
+      För några tusen år sedan lärde sig bönderna i Kina att producera pärlor
+      från musslor. Man tog en liten bit av musslans skal, krossade det och
+      implanterade sedan detta i modersmusslan. För att skydda sig mot det
+      främmande elementet bildade musslan en pärlsäck där den avsöndrade
+      pärlsekret för att täcka det främmande elementet och i detta bildades
+      gradvis en kärna till en pärla som sedan utvecklades till en
+      sötvattenspärla. Kinesiska bönder kom att göra det till stor konst att på
+      det här sättet odla sötvattenspärlor.
+
+  - heading: Färger
+    imageUrl: /img/珍珠手链1.jpg
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-  - heading: Sustainable farming
-    imageUrl: /img/about-sustainable-farming.jpg
+      Sötvattenspärlans finaste egenskap är att den finns i alla regnbågens
+      färger. Man kan odla pärlor som är vita, rosa, orange, lila, grå, brons
+      och så vidare. Varje färg har sin naturliga charm och alla är mycket
+      vackra.
+  - heading: Odlade pärlor
+    imageUrl: /img/耳环3.png
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-  - heading: Direct sourcing
+      Hur man odlar sötvattenspärlorna bestämmer också vilken form pärlan ska
+      få. Naturliga pärlor, sådana som inte är odlade, t ex saltvattens pärlor,
+      är oftast jämt rundade. De odlade pärlorna kan t.ex. vara  ovala, platta
+      eller runda. Runda sötvattenspärlor brukar ses som mer värdefulla än
+      pärlor med andra former.
+  - heading: Duis aute irure dolor
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-  - heading: Reinvest profits
-    imageUrl: /img/about-reinvest-profits.jpg
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+      est laborum.
+  - heading: Duis aute irure dolor
+    imageUrl: /img/珍珠链3.png
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+      est laborum.
 ---
 
