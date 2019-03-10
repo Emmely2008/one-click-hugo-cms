@@ -21,58 +21,47 @@ intro:
   description: |
     Pärlor & Juvel har de bästa pärlorna...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Äkta pärlor utan kompromisser
+  description: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Armband av sötvattenpärlor
+    image: /img/珍珠手链1.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Örhänge av sötvattenpärlor
+    image: /img/耳环3.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Halsband av sötvattenpärlor
+    image: /img/珍珠链2.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Pärlor & Juvel’s coffee, I couldn’t even believe
-      that was the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Pärlor & Juvel is the place to go if you want the best quality coffee. I
-      love their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    quote: Pärlor & Juvel är bäst för .......
+  - author: '- KarinSvensson'
+    quote: Pärlor & Juvel är bäst för .......
+full_image: /img/still-life-715117_640.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Frakt & Beställning
+  description: Vi gör det enkelt  för dig att beställla.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Detta ingår...
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - Detta ingår
+      plan: Enkel
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: Detta ingår
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Detta ingår..
+      plan: Express
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Detta ingår..
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Detta ingår..
+      plan: Gåva
+      price: '100'
 ---
 
