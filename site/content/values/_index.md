@@ -1,8 +1,8 @@
 ---
-title: "Values"
+title: "Om Sötvattens Pärlor"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Shade-grown coffee 33"
     text: >
       Coffee is a small tree or shrub that grows in the forest
       understory in its wild form, and traditionally was grown
