@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Pärlor & Juveler
 image: /img/still-life-715117_640.jpg
 heading: Vår produkter
 description: Pärlor & Juvel....
