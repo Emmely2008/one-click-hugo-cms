@@ -1,7 +1,7 @@
 ---
 title: Pärlor & Juveler från Kina
 subtitle: 'Sötvattenspärlor, Jade och stenar till bra priser'
-image: /img/waves-1867285_1920.jpg
+image: /img/still-life-715117_640.jpg
 blurb:
   heading: Varför handla hos oss?
   text: >-
