@@ -19,7 +19,7 @@ intro:
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat. 
 products:
-  - image: /img/珍珠手链1.jpg
+  - image: /img/20190310_095541.jpg
     text: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
