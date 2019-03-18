@@ -5,7 +5,7 @@ import Jumbotron from "./components/jumbotron";
 
 export default class PostPreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
+    const {entry, widgetFor, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
 
     // Bit of a nasty hack to make relative paths work as expected as a background image here
@@ -31,7 +31,8 @@ export default class PostPreview extends React.Component {
             <div className="flex-ns mhn2-ns mb3">test2
               {(entry.getIn(["data", "products"]) || []).map((product, i) => <div className="ph2-ns w-50-ns" key={i}>
                 <img src={getAsset(product.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
-                <p>{product.get("text")}</p>
+               {/** <p>{product.get("text")}</p>*/} 
+                { widgetFor("text") }
               </div>)}
             </div>
 
