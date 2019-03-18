@@ -14,7 +14,7 @@ export default class PostPreview extends React.Component {
           height: "80px"
         }}></div>
         <p>{ format(entry.getIn(["data", "date"]), "ddd, MMM D, YYYY") }</p>
-        <p>Läsning ca. x minuter</p>
+        <p>Läsning ca. y minuter</p>
       </div>
       <div className="cms mw6">test
         <p>{ entry.getIn(["data", "description"]) }</p>
