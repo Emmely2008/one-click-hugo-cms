@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text", name: "text2", widget: "string"},
               {label: "Text", name: "text3", widget: "string"},
               {label: "Text", name: "text4", widget: "string"}]}
-          - {label: "Material", name: "values", widget: "object", fields: [
+          - {label: "Om Sötvattens Pärlor", name: "values", widget: "object", fields: [
               {label: "Rubrik", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/contact/_index.md"
@@ -58,7 +58,7 @@ collections: # A list of collections the CMS should be able to edit
                 name: text
                 widget: text
       - file: "site/content/products/_index.md"
-        label: "ProdukteSidan"
+        label: "Produktsidan"
         name: "products"
         fields:
           - {label: Titel, name: title, widget: string}
@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Stor bild, name: full_image, widget: image}
           - {label: Priser, name: pricing, widget: object, fields: [{label: Rubrik, name: heading, widget: string}, {label: Beskrivning, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Pris, name: price, widget: string}, {label: Beskrivning, name: description, widget: string}, {label: Artikel, name: items, widget: list}]}]}
       - file: "site/content/values/_index.md"
-        label: "Om Sötvattens Pärlor Page"
+        label: "Om Sötvattens Pärlor - sidan"
         name: "values"
         fields:
           - {label: Titel, name: title, widget: string}
