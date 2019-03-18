@@ -20,14 +20,7 @@ intro:
     consequat. 
 products:
   - image: /img/20190310_095541.jpg
-    text: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
+    text: "**Sötvattens pärlhalsband rosa \r**\n\n**och vit, Storlek 11 mm\r**\n\n**Längd 46 cm Pris: 1600 kr\r**\n\n**Högkvalitet (billigast i Sverige) **"
   - image: /img/20190310_121238.jpg
     text: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
