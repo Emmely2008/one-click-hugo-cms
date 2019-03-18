@@ -28,6 +28,10 @@ products:
     text: Shell Necklace tre färgade _Storlek 13 mm
     text2: Längd 46 cm Pris 1300 kr
     text3: Högstkvalitet (billigast i Sverige
+  - image: /img/20190310_121417.jpg
+    text: 'Shell Necklace vit Storlek 13 mm '
+    text2: 'Längd 46 cm Pris: 1200 kr'
+    text3: Högkvalitet (billigast i Sverige)
 values:
   heading: Om oss
   text: >-
