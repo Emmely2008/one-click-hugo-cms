@@ -20,16 +20,18 @@ intro:
     consequat. 
 products:
   - image: /img/20190310_095541.jpg
-    text: "**Sötvattens pärlhalsband rosa \r**\n\n**och vit, Storlek 11 mm\r**\n\n**Längd 46 cm Pris: 1600 kr\r**\n\n**Högkvalitet (billigast i Sverige) **"
+    text: Sötvattens pärlhalsband rosa och vit
+    text2: Storlek 11 mm
+    text3: 'Längd 46 cm Pris: 1600 kr'
+    text4: 'Högkvalitet (billigast i Sverige) '
   - image: /img/20190310_121238.jpg
-    text: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt ina qui officia deserunt mollit anim id est
-      laborum
+    text: Shell Necklace tre färgade _Storlek 13 mm
+    text2: Längd 46 cm Pris 1300 kr
+    text3: Högstkvalitet (billigast i Sverige
+  - image: /img/20190310_121417.jpg
+    text: 'Shell Necklace vit Storlek 13 mm '
+    text2: 'Längd 46 cm Pris: 1200 kr'
+    text3: Högkvalitet (billigast i Sverige)
 values:
   heading: Om oss
   text: >-
