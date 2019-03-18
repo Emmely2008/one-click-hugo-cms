@@ -21,17 +21,19 @@ intro:
 products:
   - image: /img/20190310_095541.jpg
     text: Sötvattens pärlhalsband rosa och vit
-    text2: Storlek 11 mm
-    text3: 'Längd 46 cm Pris: 1600 kr'
+    text2: 'Storlek 11 mm, Längd 46 cm '
+    text3: 'Pris: 1600 kr'
     text4: 'Högkvalitet (billigast i Sverige) '
   - image: /img/20190310_121238.jpg
-    text: Shell Necklace tre färgade _Storlek 13 mm
-    text2: Längd 46 cm Pris 1300 kr
-    text3: Högstkvalitet (billigast i Sverige
+    text: Shell Necklace tre färgade
+    text2: 'Storlek 13 mm, Längd 46 cm '
+    text3: Pris 1300 kr
+    text4: Högstkvalitet (billigast i Sverige
   - image: /img/20190310_121417.jpg
-    text: 'Shell Necklace vit Storlek 13 mm '
-    text2: 'Längd 46 cm Pris: 1200 kr'
-    text3: Högkvalitet (billigast i Sverige)
+    text: 'Shell Necklace vit '
+    text2: 'Storlek 13 mm, Längd 46 cm '
+    text3: 'Pris: 1200 kr'
+    text4: Högkvalitet (billigast i Sverige)
 values:
   heading: Om oss
   text: >-
